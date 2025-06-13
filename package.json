@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@iconify/react": "^6.0.0",
     "@supabase/supabase-js": "^2.50.0",
     "framer-motion": "^12.17.3",
     "next": "15.3.3",

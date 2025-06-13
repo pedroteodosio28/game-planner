@@ -7,6 +7,7 @@
 // import Reviews from "components/Reviews";
 // import Download from "components/Download";
 
+import ButtonComp from "@/components/Button";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
@@ -15,7 +16,7 @@ export default function Page() {
   return (
     <div className="flex flex-col min-h-screen bg-white dark:bg-black">
       <Header />
-      <main>
+      <main className="min-h-screen">
         <Hero />
         {/* <Features />
         <Section

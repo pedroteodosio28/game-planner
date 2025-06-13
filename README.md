@@ -1,8 +1,4 @@
-# **GamePlanner - PWA para Gestão de Peladas entre Amigos**  
-
-![Next.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+# **GamePlanner - PWA para Gestão de jogos entre amigos**  
 
 Um aplicativo **Progressive Web App (PWA)** desenvolvido em **Next** para organizar partidas entre amigos. Permite criar times, sortear jogadores, marcar jogos e gerenciar confirmações de presença.  
 
